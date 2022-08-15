@@ -1,0 +1,10 @@
+[
+    {"id":1, "marca":"BMW", "modelo":"M3", "año":1995, "imagen":"BMW_M3_E36_1.jpg" , "precio":50000},
+    {"id":2, "marca":"Chevrolet", "modelo":"Blazer K5", "año":1985, "imagen":"Blazer_k5.jpg" , "precio":40000},
+    {"id":3, "marca":"Honda", "modelo":"Accord", "año":2001, "imagen":"Honda_Accord.jpg" , "precio":8000},
+    {"id":4, "marca":"Mercedes Benz", "modelo":"190 E", "año":1986, "imagen":"MERCEDES_190_1.jpg" , "precio":10000},
+    {"id":5, "marca":"Mercedes Benz", "modelo":"300D", "año":1979, "imagen":"mercedes_300d.jpg" , "precio":5000},
+    {"id":6, "marca":"Fiat", "modelo":"1500", "año":1967, "imagen":"Fiat_1500.jpg" , "precio":10000},
+    {"id":7, "marca":"Toyota", "modelo":"Corolla", "año":2017, "imagen":"toyota_corolla.jpg" , "precio":20000},
+    {"id":8, "marca":"BMW", "modelo":"635 CSI", "año":1990, "imagen":"BMW_635_CSI.jpg" , "precio":15000}
+]
